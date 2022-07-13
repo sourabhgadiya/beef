@@ -208,13 +208,8 @@ GEM
     selenium-webdriver (4.2.1)
       childprocess (>= 0.5, < 5.0)
       rexml (~> 3.2, >= 3.2.5)
-<<<<<<< HEAD
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
-=======
-      rubyzip (>= 1.2.2)
-    shellany (0.0.1)
->>>>>>> 8656f0b3f41e01c0473c75eb8ab97e81c05f0890
     simple_oauth (0.3.1)
     sinatra (2.2.0)
       mustermann (~> 1.0)
